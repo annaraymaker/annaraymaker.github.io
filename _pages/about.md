@@ -12,6 +12,6 @@ Hello! I'm a 2nd year Ph.D. student in the School of Electrical and Computer Eng
 
 In May 2022, I acquired a Bachelor of Science in Computer Engineering from the University of Florida [HWCOE](https://www.eng.ufl.edu/) (Go Gators!).  
   
-My general research interests are in cyber-physical systems security and network security. My current projects....
+My general research interests are in cyber-physical systems security and network security.
   
-If you want to get in touch, feel free to [email me](mailto:araymaker3@gatech.edu)! :)
+If you want to get in touch, feel free to [email me](mailto:araymaker3@gatech.edu) :)

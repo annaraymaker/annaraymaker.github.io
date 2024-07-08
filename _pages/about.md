@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D. student in Electrical and Computer Engineering at the Georgia Institute of Technology in the [CPSec Lab]([http://example.com](https://sites.gatech.edu/capcpsec/)), advised by Professor Saman Zonouz. 
+I am a 2nd year Ph.D. student in Electrical and Computer Engineering at the Georgia Institute of Technology in the [link](https://sites.gatech.edu/capcpsec/), advised by Professor Saman Zonouz. 
 
 In May 2022, I acquired a Bachelor of Science in Computer Engineering from the University of Florida (Go Gators!).  
   

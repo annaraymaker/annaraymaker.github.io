@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2nd year Ph.D. student in Electrical and Computer Engineering at the Georgia Institute of Technology in the [link](https://sites.gatech.edu/capcpsec/), advised by Professor Saman Zonouz. 
+Hello! I'm a 2nd year Ph.D. student in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the [CPSec Lab](https://sites.gatech.edu/capcpsec/), advised by [Professor Saman Zonouz](https://sites.google.com/site/samanzonouz4n6/saman-zonouz). 
 
-In May 2022, I acquired a Bachelor of Science in Computer Engineering from the University of Florida (Go Gators!).  
+In May 2022, I acquired a Bachelor of Science in Computer Engineering from the University of Florida [HWCOE](https://www.eng.ufl.edu/) (Go Gators!).  
   
-My general research interests lie in cyber-physical systems security and network security.
+My general research interests are in cyber-physical systems security and network security.
   
-If you want to get in touch, feel free to email me at araymaker3@gatech.edu.
+If you want to get in touch, feel free to [email me](mailto:araymaker3@gatech.edu)! :)

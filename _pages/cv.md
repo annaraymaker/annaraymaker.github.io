@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Computer Engineering, University of Florida, Fall 2018 - Spring 2022

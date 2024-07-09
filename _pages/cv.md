@@ -60,3 +60,11 @@ Service and leadership
   * European Symposium on Research in Computer Security (ESORICS) 2023
   * IEEE S&P Workshop on Language-Theoretic Security (LangSec) 2023
   * IEEE International Conference on Trust, Privacy and Security (TPS) 2022
+
+
+* Engineering Ambassador, University of Florida, January 2021 - May 2022
+  * As a liaison for the HWCOE, I gave tours for the college and acted as a student engineering leader.
+* IEEE HKN, University of Florida, August 2020 - May 2022
+  * As a member of this ECE honor society, I held exam reviews and tutored students in the ECE department.
+* Alpha Phi Omega, University of Florida, August 2018 - May 2022
+  * As a member of this co-ed service organization, I volunteered for over 1,000 hours at various local organizations, including the Humane Society, Salvation Army, UF student gardens, CADE Museum for Science and Creativity, local nursing homes, etc.\\

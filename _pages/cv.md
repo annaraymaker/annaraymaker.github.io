@@ -14,6 +14,24 @@ Education
 * B.S. in Computer Engineering, University of Florida, Fall 2018 - Spring 2022
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, Fall 2022 - Present
 
+Fellowship(s)
+======
+* President's Fellowship
+* Amount: $5,500/year
+* Date Awarded: August 2022
+* This is offered to the top 10% of the Georgia Institute of Technology's doctoral program applicants.
+
+Award(s)
+======
+* Presidential Service Award at the University of Florida
+  * Awarded: Spring 2022
+* National Merit Scholar
+  * Awarded: Spring 2018 
+
+Relevant Coursework
+======
+* Cybersecurity of Drones, Network Security, Advanced Malware Analysis, Linear Systems and Controls, Advanced Programming Techniques
+
 Professional experience
 ======
 * FPGA Electrical Engineering Intern

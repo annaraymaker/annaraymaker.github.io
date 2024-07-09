@@ -14,27 +14,13 @@ Education
 * B.S. in Computer Engineering, University of Florida, Fall 2018 - Spring 2022
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, Fall 2022 - Present
 
-Work experience
+Professional experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* FPGA Electrical Engineering Intern
+  * L3Harris, Melbourne, Florida, Summer 2021
+  * Supervisor: Brian Morris
+  * I worked on a SpaceVPX test card project in the Space and Airborne Systems Department. My work included making presentations, working with Vivado SPI IP, defining FPGA requirements, and collaborating with a team of engineering interns in various specialties (Power, Embedded Systems, etc) on the overall test card design.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -55,16 +41,18 @@ Teaching
   
 Service and leadership
 ======
-* External Reviewer, Georgia Institute of Technology
+* External Reviewer
   * Conference on Computer and Communications Security (CCS) 2023
   * European Symposium on Research in Computer Security (ESORICS) 2023
   * IEEE S&P Workshop on Language-Theoretic Security (LangSec) 2023
   * IEEE International Conference on Trust, Privacy and Security (TPS) 2022
 
-
-* Engineering Ambassador, University of Florida, January 2021 - May 2022
+* Engineering Ambassador
+  * University of Florida, January 2021 - May 2022
   * As a liaison for the HWCOE, I gave tours for the college and acted as a student engineering leader.
-* IEEE HKN, University of Florida, August 2020 - May 2022
+* IEEE HKN
+  * University of Florida, August 2020 - May 2022
   * As a member of this ECE honor society, I held exam reviews and tutored students in the ECE department.
-* Alpha Phi Omega, University of Florida, August 2018 - May 2022
+* Alpha Phi Omega
+  * University of Florida, August 2018 - May 2022
   * As a member of this co-ed service organization, I volunteered for over 1,000 hours at various local organizations, including the Humane Society, Salvation Army, UF student gardens, CADE Museum for Science and Creativity, local nursing homes, etc.

@@ -8,4 +8,4 @@ date: 01-01-2021
 location: "Gainesville, Florida"
 ---
 
-Undergraduate TA for Digital Logic and Computer Systems (Spring/Summer semesters 2021) under Dr. Schwartz. My responsibilities included holding a lab section, holding weekly office hours, grading assignments, and reviewing/revising lab/homework assignments.
+Under Dr. Schwartz, I was an Undergraduate TA for Digital Logic and Computer Systems for the Spring and Summer semesters 2021. My responsibilities included holding a lab section, holding weekly office hours, grading assignments, and reviewing/revising lab/homework assignments.

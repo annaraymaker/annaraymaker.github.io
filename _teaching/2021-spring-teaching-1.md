@@ -4,17 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching-1
 venue: "The University of Florida, Department of Electrical and Computer Engineering"
-date: Spring and Summer 2021
+date: 01-01-2021
 location: "Gainesville, Florida"
 ---
 
 Undergraduate TA for Digital Logic and Computer Systems (Spring/Summer semesters 2021) under Dr. Schwartz. My responsibilities included holding a lab section, holding weekly office hours, grading assignments, and reviewing/revising lab/homework assignments.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

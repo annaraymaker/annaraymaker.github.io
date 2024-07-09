@@ -1,11 +1,11 @@
 ---
-title: "Graduate Teaching Assistant - ECE 6100: Advanced Computer Architecture"
+title: "Head Graduate Teaching Assistant - ECE 3030: Physical Foundations of Computer Engineering"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2023-fall-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2024-spring-teaching-1
 venue: "The Georgia Institute of Technology, Department of Electrical and Computer Engineering"
-date: 08-01-2023
-location: "Gainesville, Florida"
+date: 01-01-2024
+location: "Atlanta, Georgia"
 ---
 
-Under Professor Callie Hao, I was a Graduate TA for Advanced Computer Architecture for the Fall of 2023. My responsibilities included holding office hours, lab information sessions, writing and grading homeworks/exams/labs, and proctoring exams.
+Under Professor Asif Khan, I was a Graduate TA for Physical Foundations of Computer Engineering for Spring 2024. My responsibilities included holding office hours, lab information sessions, writing and grading homework/exams/labs, and proctoring exams.

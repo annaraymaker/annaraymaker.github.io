@@ -46,37 +46,37 @@ Research Experience
 * Graduate Research Assistant - CPSec Lab
   * Georgia Institute of Technology
   * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * Under Professor Saman Zonouz, my research focuses on studying all aspects of cybersecurity on marine vessels. My lead project is investigating human behaviors and mental models that lead to gaps in cybersecurity in these critical, cyber-physical systems. Additionally, I am part of a project to develop an end-to-end attack against a marine vessel using novel, marine-specific malware. Ultimately, we aim to develop protections against cyber-attacks, factoring in technical and human elements.
 
 * Graduate Research Collaborator - D2I Lab
   * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * Spring 2024
+  * Under Professor Kexin Rong, my research focused on developing tools to simplify large-scale data analytics. Specifically, I led a project to evaluate the transferability of data preprocessing pipelines for machine learning.
 
 * Graduate Research Collaborator - COEUS Lab
   * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * Fall 2023
+  * Under Professor Fabian Monrose, my research focused on helping develop more efficient binary analysis tools. This involved working with a senior Ph.D. student to evaluate design options (regex tools, code lifters, etc) through experimentation
 
 * Graduate Research Assistant - CyFI Lab
   * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * Fall 2022 - Fall 2023
+  * Under Professor Brendan Saltaformaggio, my research focused on the study of web-based malware. Specifically, I worked to detect, attribute, and remediate benign web servers hijacked by botnets and incorporated into their C&C infrastructure.
 
 * Undergraduate Research Assistant - ARC Lab
-  * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * University of Florida
+  * August 2021 - May 2022
+  * Under Professor Greg Stitt, I helped develop a genetic programming tool accelerated by an FPGA by designing and coding project elements in VHDL.
 
 * Undergraduate Research Assistant - FICS Lab
-  * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * University of Florida
+  * June 2020 - February 2022
+  * Under Professor Mark Tehranipoor, I performed fault injection attacks using clock glitching on a Xilinx FPGA to show the vulnerabilities in FSM encoding schemes.
 
 * Undergraduate Research Assistant - SWAMP Lab
-  * Georgia Institute of Technology
-  * Spring 2024 - Present
-  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+  * University of Florida
+  * August 2019 - August 2020
+  * Under Professor Kevin Jones and Professor Mark Law, I graphed SiGe diffusion patterns during oxidation using a TCAD tool known as FLOOXS.
 
 Professional Experience
 ======

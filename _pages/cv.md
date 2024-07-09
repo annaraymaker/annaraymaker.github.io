@@ -17,22 +17,68 @@ Education
 Fellowship(s)
 ======
 * President's Fellowship
-* Amount: $5,500/year
-* Date Awarded: August 2022
-* This is offered to the top 10% of the Georgia Institute of Technology's doctoral program applicants.
+  * Amount: $5,500/year
+  * Date Awarded: August 2022
+  * This is offered to the top 10% of the Georgia Institute of Technology's doctoral program applicants.
 
 Award(s)
 ======
 * Presidential Service Award at the University of Florida
   * Awarded: Spring 2022
 * National Merit Scholar
-  * Awarded: Spring 2018 
+  * Awarded: Spring 2018
+
+Scholarship(s)
+======
+* Benacquisto Scholarship
+  * Fall 2018 - Spring 2022
+* Bright Futures Scholarship
+  * Fall 2018 - Spring 2022
+* Vicar’s Landing Scholarship
+  * Fall 2018 and Fall 2019
 
 Relevant Coursework
 ======
 * Cybersecurity of Drones, Network Security, Advanced Malware Analysis, Linear Systems and Controls, Advanced Programming Techniques
 
-Professional experience
+Research Experience
+======
+* Graduate Research Assistant - CPSec Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Graduate Research Collaborator - D2I Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Graduate Research Collaborator - COEUS Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Graduate Research Assistant - CyFI Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Undergraduate Research Assistant - ARC Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Undergraduate Research Assistant - FICS Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+* Undergraduate Research Assistant - SWAMP Lab
+  * Georgia Institute of Technology
+  * Spring 2024 - Present
+  * Under Professor Saman Zonouz, my research focuses on developing protections against attacks on marine vessels. Specifically, I am part of a project to develop an end-to-end attack against a marine vessel using novel malware.
+
+Professional Experience
 ======
 * FPGA Electrical Engineering Intern
   * L3Harris, Melbourne, Florida, Summer 2021
@@ -57,7 +103,7 @@ Teaching
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * External Reviewer
   * Conference on Computer and Communications Security (CCS) 2023

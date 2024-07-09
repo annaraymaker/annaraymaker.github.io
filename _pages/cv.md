@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Engineering, University of Florida, Fall 2018 - Spring 2022
-# * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Electrical and Computer Engineering, Georgia Institute of Technology, Fall 2022 - Present
 
 Work experience
@@ -56,4 +55,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* External Reviewer
+  * Conference on Computer and Communications Security (CCS) 2023
+  * European Symposium on Research in Computer Security (ESORICS) 2023
+  * IEEE S&P Workshop on Language-Theoretic Security (LangSec) 2023
+  * IEEE International Conference on Trust, Privacy and Security (TPS) 2022

@@ -49,13 +49,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* External Reviewer
+* External Reviewer, Georgia Institute of Technology
   * Conference on Computer and Communications Security (CCS) 2023
   * European Symposium on Research in Computer Security (ESORICS) 2023
   * IEEE S&P Workshop on Language-Theoretic Security (LangSec) 2023
@@ -67,4 +67,4 @@ Service and leadership
 * IEEE HKN, University of Florida, August 2020 - May 2022
   * As a member of this ECE honor society, I held exam reviews and tutored students in the ECE department.
 * Alpha Phi Omega, University of Florida, August 2018 - May 2022
-  * As a member of this co-ed service organization, I volunteered for over 1,000 hours at various local organizations, including the Humane Society, Salvation Army, UF student gardens, CADE Museum for Science and Creativity, local nursing homes, etc.\\
+  * As a member of this co-ed service organization, I volunteered for over 1,000 hours at various local organizations, including the Humane Society, Salvation Army, UF student gardens, CADE Museum for Science and Creativity, local nursing homes, etc.

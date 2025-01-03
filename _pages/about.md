@@ -14,4 +14,4 @@ In May 2022, I acquired a Bachelor of Science in Computer Engineering from the U
   
 My general research interests are in cyber-physical systems security, network security, and usable security.
   
-If you want to get in touch, feel free to [email me](mailto:araymaker3@gatech.edu) :)
+If you want to get in touch, feel free to [email me](mailto:araymaker3@gatech.edu) or [connect with me](https://www.linkedin.com/in/annaraymaker/):)

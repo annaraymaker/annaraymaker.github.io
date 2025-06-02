@@ -4,8 +4,10 @@ collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
 # Uncomment if necessary:
 # excerpt: ''
-# date: To appear''
-# venue: CCS 2025''
+# date: ''
+# venue: "
 # paperurl: ''
 # citation: ''
 ---
+
+To appear at CC 2025

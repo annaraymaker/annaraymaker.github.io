@@ -10,4 +10,4 @@ collection: publications
 # citation: ''
 ---
 
-To appear at CC 2025
+To appear at CCS 2025

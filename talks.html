@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name – Talks</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="site-title">Your Name</div>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="talks.html" class="active">Talks</a>
+      <a href="publications.html">Publications</a>
+      <a href="https://drive.google.com/your-cv-link" target="_blank" rel="noopener">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <h1>Talks</h1>
+  <p>
+    Add each talk as an item below. If you have a photo for a talk,
+    upload it to the repo (for example in an <code>images/talks/</code> folder)
+    and link to it with the <code>img</code> tag.
+  </p>
+
+  <ul class="item-list">
+
+    <li class="item">
+      <div class="item-title">
+        Talk Title Goes Here
+      </div>
+      <div class="item-meta">
+        Event or Venue Name · City, Country · Month Year
+      </div>
+      <div class="item-links">
+        <!-- Optional links, edit or remove as you like -->
+        <a href="https://example.com/slides" target="_blank" rel="noopener">Slides</a> ·
+        <a href="https://example.com/video" target="_blank" rel="noopener">Video</a>
+      </div>
+      <!-- Optional photo: update src to your actual image path -->
+      <!--
+      <img src="images/talks/my-talk-photo.jpg" alt="Talk photo" class="talk-image">
+      -->
+    </li>
+
+    <!-- Copy and paste the <li> block above for more talks -->
+
+  </ul>
+</main>
+
+<footer class="site-footer">
+  © <span id="year"></span> Your Name
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

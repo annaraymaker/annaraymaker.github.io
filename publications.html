@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name – Publications</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="site-title">Your Name</div>
+    <nav class="site-nav">
+      <a href="index.html">Home</a>
+      <a href="talks.html">Talks</a>
+      <a href="publications.html" class="active">Publications</a>
+      <a href="https://drive.google.com/your-cv-link" target="_blank" rel="noopener">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <h1>Publications</h1>
+  <p>
+    List your papers below. You can group by year or topic if you want.
+  </p>
+
+  <!-- Example: group by year -->
+  <h2>2025</h2>
+  <ul class="item-list">
+    <li class="item">
+      <div class="item-title">
+        Paper Title One
+      </div>
+      <div class="item-meta">
+        Your Name, Coauthor Name, Coauthor Name  
+        <br>
+        Conference or Journal Name, 2025
+      </div>
+      <div class="item-links">
+        <a href="https://doi.org/..." target="_blank" rel="noopener">Paper</a>
+        ·
+        <a href="https://arxiv.org/..." target="_blank" rel="noopener">arXiv</a>
+        ·
+        <a href="https://example.com/slides" target="_blank" rel="noopener">Slides</a>
+      </div>
+    </li>
+  </ul>
+
+  <h2>2024</h2>
+  <ul class="item-list">
+    <li class="item">
+      <div class="item-title">
+        Paper Title Two
+      </div>
+      <div class="item-meta">
+        Your Name, Coauthor Name  
+        <br>
+        Venue Name, 2024
+      </div>
+      <div class="item-links">
+        <a href="https://doi.org/..." target="_blank" rel="noopener">Paper</a>
+      </div>
+    </li>
+  </ul>
+
+  <!-- Add more years or sections as you need -->
+
+</main>
+
+<footer class="site-footer">
+  © <span id="year"></span> Your Name
+</footer>
+
+<script>
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

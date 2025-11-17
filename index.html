@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Your Name</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container">
+    <div class="site-title">Your Name</div>
+    <nav class="site-nav">
+      <a href="index.html" class="active">Home</a>
+      <a href="talks.html">Talks</a>
+      <a href="publications.html">Publications</a>
+      <!-- Replace the URL below with your real Google Drive CV link -->
+      <a href="https://drive.google.com/your-cv-link" target="_blank" rel="noopener">CV</a>
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  <div class="home-layout">
+    <!-- Left: About -->
+    <section class="card">
+      <h1>Anna Raymaker</h1>
+      <img src="images/headshot_scp.jpg" alt="Your photo" 
+       style="max-width:160px; border-radius:10px; margin-bottom:1rem;">
+
+      <p><strong>Short tagline about who you are.</strong></p>
+      <p>
+        Hello! I'm a Ph.D. candidate in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. I work in the <a href="https://sites.gatech.edu/capcpsec/" target="_blank">CPSec</a> Lab, advised by <a href="https://sites.google.com/site/samanzonouz4n6/saman-zonouz" target="_blank">Professor Saman Zonouz</a>. 
+        
+        In May 2022, I acquired a Bachelor of Science in Computer Engineering from the University of Florida <a href="https://www.eng.ufl.edu/" target="_blank">HWCOE</a> (Go Gators!).
+
+        My general research interests are in cyber-physical systems security, network security, and usable security.
+
+        If you want to get in touch, feel free to <a href="mailto:araymaker3@gatech.edu" target="_blank">email</a> or <a href="https://www.linkedin.com/in/annaraymaker/" target="_blank">connect with me</a> :)
+      </p>
+      <p>
+        You can also add a contact line here, like:
+        <a href="mailto:you@example.com">you@example.com</a>
+        or links to <a href="https://scholar.google.com">Google Scholar</a>,
+        <a href="https://github.com">GitHub</a>, etc.
+      </p>
+    </section>
+
+    <!-- Right: News -->
+    <section class="card">
+      <h2>News</h2>
+      <ul class="news-list">
+        <!-- To add or edit news, just copy and edit these blocks -->
+        <li class="news-item">
+          <div class="news-date">Nov 2025</div>
+          <div class="news-text">
+            I will present <em>Paper Title</em> at Conference Name in Month Year.
+          </div>
+        </li>
+        <li class="news-item">
+          <div class="news-date">Oct 2025</div>
+          <div class="news-text">
+            Our paper on <em>Short Topic</em> was accepted at Venue Name.
+          </div>
+        </li>
+        <li class="news-item">
+          <div class="news-date">Sep 2025</div>
+          <div class="news-text">
+            Joined Organization Name as Position (for example, PhD student in Something).
+          </div>
+        </li>
+      </ul>
+    </section>
+  </div>
+</main>
+
+<footer class="site-footer">
+  © <span id="year"></span> Your Name
+</footer>
+
+<script>
+  // Auto update the year in the footer
+  document.getElementById('year').textContent = new Date().getFullYear();
+</script>
+
+</body>
+</html>

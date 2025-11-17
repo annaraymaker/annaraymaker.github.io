@@ -89,7 +89,7 @@ h2 {
 
 .home-layout {
   display: grid;
-  grid-template-columns: 2fr 1.4fr;
+  grid-template-columns: 3fr 2fr;
   gap: 2rem;
 }
 
